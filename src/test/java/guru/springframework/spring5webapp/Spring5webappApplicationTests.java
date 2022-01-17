@@ -10,4 +10,7 @@ class Spring5webappApplicationTests {
 	void contextLoads() {
 	}
 
+    @Test
+    public void contextLoads() {
+    }
 }
