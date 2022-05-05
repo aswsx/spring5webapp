@@ -8,6 +8,12 @@ to use the Spring Framework. Step by step instructions and detailed explanations
 As you work through the course, please feel free to fork this repository to your out GitHub repo. Most links contain links 
 to source code changes. If you encounter a problem you can compare your code to the lesson code. [See this link for help with compares](https://github.com/springframeworkguru/spring5webapp/wiki#getting-an-error-but-cannot-find-what-is-different-from-lesson-source-code)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/aswsx/spring5webapp)
+![GitHub last commit](https://img.shields.io/github/last-commit/aswsx/spring5webapp)
+![GitHub top language](https://img.shields.io/github/languages/top/aswsx/spring5webapp)
+![GitHub language count](https://img.shields.io/github/languages/count/aswsx/spring5webapp)
+![Lines of code](https://img.shields.io/tokei/lines/github/aswsx/spring5webapp)
+
 ## Spring Framework 5: Beginner to Guru Course Wiki
 Got a question about your Spring Framework 5 course? [Checkout these FAQs!](https://github.com/springframeworkguru/spring5webapp/wiki)
 
